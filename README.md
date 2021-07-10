@@ -1,4 +1,6 @@
 # COVIDLies Research (UCI ML Hackathon)
+Note: built with a partner [Rionel Dmello]
+
 Over the past recent years, the use of tweets as a source of news has increased. Sometimes, it has proven to be quite incorrect and misleading -- sometimes causing death.
 Social media enables a rapid spread of misconceptions. With a partner, our goal was to see if a tweet propagated a misconception. Given the COVIDLies dataset of 7+ million tweets,
 we planned to create a Neural Net that learned a tweet and a specific misconception. Dataset is excluded for sensitivity.
